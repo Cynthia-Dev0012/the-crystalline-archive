@@ -1,1 +1,1 @@
-https://img.shields.io/badge/Version-A0.0.1-red
+![Static Badge](https://img.shields.io/badge/Version-A0.0.1-red)
